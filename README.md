@@ -1,6 +1,6 @@
 # Data Description
 
-## Predict if the customer will subscribe (yes/no) to a term deposit (variable y)
+## Predicting if the customer will subscribe (yes/no) to a term deposit (variable y)
 
 age : age of customer (numeric)
 
